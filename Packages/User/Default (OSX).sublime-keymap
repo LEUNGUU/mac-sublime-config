@@ -1,0 +1,8 @@
+[
+ { "keys": ["ctrl+super+space"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": false} },
+    { "keys": ["alt+enter"], "command": "move", "args": {"by": "lines", "forward": true} },
+    { "keys": ["shift+alt+enter"], "command": "move", "args": {"by": "lines", "forward": false} },
+    { "keys": ["fn+f1"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+alt+t"], "command": "open_termx_terminal" },
+]
