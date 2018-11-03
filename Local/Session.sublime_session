@@ -5,7 +5,7 @@
 		"/Users/qianyi/Desktop/tmp/ecf-infrastructure-codes"
 	],
 	"last_version": 3176,
-	"last_window_id": 35,
+	"last_window_id": 41,
 	"log_indexing": false,
 	"settings":
 	{
@@ -78,6 +78,8 @@
 			},
 			"file_history":
 			[
+				"/Users/qianyi/Desktop/LearningPythonDesignPatternsSecondEdition_CODE/Chapter06/observer_example.py",
+				"/Users/qianyi/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/Users/qianyi/Desktop/LearningPythonDesignPatternsSecondEdition_CODE/Chapter01/sample.py"
 			],
 			"find":
@@ -245,6 +247,8 @@
 			},
 			"file_history":
 			[
+				"/Users/qianyi/Desktop/LearningPythonDesignPatternsSecondEdition_CODE/Chapter06/observer_example.py",
+				"/Users/qianyi/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/Users/qianyi/Desktop/LearningPythonDesignPatternsSecondEdition_CODE/Chapter01/sample.py"
 			],
 			"find":
@@ -372,7 +376,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 35,
+			"window_id": 41,
 			"workspace_name": ""
 		}
 	],
